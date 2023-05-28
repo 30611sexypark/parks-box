@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>대학 웹사이트</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<!-- 헤더 -->
+  <header>
+    <h1><strong>대학 웹사이트</strong></h1>
+    <h3>우리 사이트는 공학 학과의 정보 제공 및 헷갈릴만한 학과 정보를 제공합니다.</h3>
+    <h2>원하는 학과를 선택하세요!</h2>
+  </header>
+
+  <body>
+    <body bgcolor='93e5d8'>
+
+  <nav>
+    <ul>
+      <li><a href="#">IT융합학과</a></li>
+      <li><a href="#">건축공학과</a></li>
+      <li><a href="#">건축설비과</a></li>
+      <li><a href="#">게임공학과</a></li>
+      <li><a href="#">고분자공학과</a></li>
+      <li><a href="#">광학공학과</a></li>
+      <li><a href="#">건설정보과</a></li>
+      <li><a href="#">건축과</a></li>
+      <li><a href="#">건축학과</a></li>
+      <li><a href="#">게임콘텐츠과</a></li>
+      <li><a href="#">공업화학과</a></li>
+      <li><a href="#">교양공학부</a></li>
+      <li><a href="#">교통공학과</a></li>
+      <li><a href="#">국방기술학과</a></li>
+      <li><a href="#">금형설계과</a></li>
+      <li><a href="#">기계과</a></li>
+      <li><a href="#">기계설계과</a></li>
+      <li><a href="#">냉동공조공학과</a></li>
+      <li><a href="#">국방기술과</a></li>
+      <li><a href="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=merciful3&logNo=221253028951" target="_blank">금속공학과</a></li>
+      <li><a href="#">기계공학과</a></li>
+      <li><a href="#">기계설계공학과</a></li>
+      <li><a href="#">나노공학과</a></li>
+      <li><a href="#">도시공학과</a></li>
+      <li><a href="#">로봇공학과</a></li>
+      <li><a href="#">멀티미디어학과</a></li>
+      <li><a href="#">메카트로닉스과</a></li>
+      <li><a href="#">무인항공드론과</a></li>
+      <li><a href="#">물류시스템공학과</a></li>
+      <li><a href="#">디지털콘텐츠학과</a></li>
+      <li><a href="#">멀티미디어과</a></li>
+      <li><a href="#">메카트로닉스공학과</a></li>
+      <li><a href="#">모바일시스템공학과</a></li>
+      <li><a href="#">무인항공학과</a></li>
+      <li><a href="#">미디어출판과</a></li>
+      <li><a href="#">반도체과</a></li>
+      <li><a href="#">사이버국방학과</a></li>
+      <li><a href="#">산업공학과</a></li>
+      <li><a href="#">섬유공학과</a></li>
+      <li><a href="#">세라믹공학과</a></li>
+      <li><a href="#">소프트웨어공학과</a></li>
+      <li><a href="#">반도체학과</a></li>
+      <li><a href="#">산업공학과</a></li>
+      <li><a href="#">산업설비자동화과</a></li>
+      <li><a href="#">섬유디자인과</a></li>
+      <li><a href="#">소방방재학과</a></li>
+      <li><a href="#">스마트정보과</a></li>
+      <li><a href="#">스마트폰과</a></li>
+      <li><a href="#">시스템공학과</a></li>
+      <li><a href="#">신소재응용과</a></li>
+      <li><a href="#">안경광학과</a></li>
+      <li><a href="#">에너지자원공학과</a></li>
+      <li><a href="#">응용소프트웨어공학과</a></li>
+      <li><a href="#">시스템경영공학과</a></li>
+      <li><a href="#">신소재공학과</a></li>
+      <li><a href="#">신재생에너지과</a></li>
+      <li><a href="#">안전공학과</a></li>
+      <li><a href="#">원자력공학과</a></li>
+      <li><a href="#">인터넷정보과</a></li>
+      <li><a href="#">인터넷정보학과</a></li>
+      <li><a href="#">자동차과</a></li>
+      <li><a href="#">재료공학과</a></li>
+      <li><a href="#">전기공학과</a></li>
+      <li><a href="#">전기자동화과</a></li>
+      <li><a href="#">전기전자과</a></li>
+      <li><a href="#">자동차공학과</a></li>
+      <li><a href="#">자동차정비과</a></li>
+      <li><a href="#">재료과</a></li>
+      <li><a href="#">전기과</a></li>
+      <li><a href="#">전자공학과</a></li>
+      <li><a href="#">정보보호학과</a></li>
+      <li><a href="#">정보통신과</a></li>
+      <li><a href="#">제어게측과</a></li>
+      <li><a href="#">제철금속과</a></li>
+      <li><a href="#">조경학과</a></li>
+      <li><a href="#">전자과</a></li>
+      <li><a href="#">정보통신공학과</a></li>
+      <li><a href="#">제어계측공학과</a></li>
+      <li><a href="#">제지공학과</a></li>
+      <li><a href="#">조경과</a></li>
+      <li><a href="#">조선공학과</a></li>
+      <li><a href="#">조선과</a></li>
+      <li><a href="#">철도교통과</a></li>
+      <li><a href="#">철도전기제어과</a></li>
+      <li><a href="#">측지정보과</a></li>
+      <li><a href="#">컴퓨터과</a></li>
+      <li><a href="#">컴퓨터보안과</a></li>
+      <li><a href="#">지구해양과학과</a></li>
+      <li><a href="#">철도운전과</a></li>
+      <li><a href="#">철도토목과</a></li>
+      <li><a href="#">컴퓨터공학과</a></li>
+      <li><a href="#">컴퓨터과학과</a></li>
+      <li><a href="#">컴퓨터소프트웨어과</a></li>
+      <li><a href="#">컴퓨터시스템과</a></li>
+      <li><a href="#">컴퓨터정보과</a></li>
+      <li><a href="#">토목과</a></li>
+      <li><a href="#">항공보안과</a></li>
+      <li><a href="#">항공운항학과</a></li>
+      <li><a href="#">항해학과</a></li>
+      <li><a href="#">컴퓨터응용기계과</a></li>
+      <li><a href="#">토목공학과</a></li>
+      <li><a href="#">특수장비과</a></li>
+      <li><a href="#">항공우주공학과</a></li>
+      <li><a href="#">항공정비과</a></li>
+      <li><a href="#">해양공학과</a></li>
+      <li><a href="#">해양시스템학과</a></li>
+      <li><a href="#">화학공학과</a></li>
+      <li><a href="#">화학공업과</a></li>
+      <li><a href="#">환경화학과</a></li>
+
+    </ul>
+  </nav>
+
+  <h4>만든이 : 웹개발 컴싸 (30611 박승혁, 30504 김현민, 30604 김민준, 30802 곽지용)</h4>
+  <footer>
+    <p>&copy; 2023 공학 학과 모음집.</p>
+  </footer>
+
+</body>
+</html>
