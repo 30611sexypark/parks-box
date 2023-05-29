@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>대학 웹사이트</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<!-- 헤더 -->
+  <header>
+    <h1><strong>대학 웹사이트 - 웹개발 컴싸</strong></h1>
+    <h3>우리 사이트는 공학 학과의 정보 제공 및 헷갈릴만한 학과 정보를 제공합니다.</h3>
+  
+  </header>
+
+  <body>
+    <body bgcolor='93e5d8'>
+      <a href="#bookmark"><p>학과 정보</p></a>
+      <a href="#bookmarks"><p>비슷한 학과</p></a>
+      <a href="#bookmarkd"><p>유명대학 사이트</p></a>
+      <h2><a name="bookmark"></a>학과 정보</h2>
+      <h3>원하는 학과를 선택하세요!</h3>
+  <nav>
+    <ul>
+      <li><a href="C:\Users\user\Desktop\IT융합학과.PNG">IT융합학과</a></li>
+      <li><a href="#">건축공학과</a></li>
+      <li><a href="#">건축설비과</a></li>
+      <li><a href="#">게임공학과</a></li>
+      <li><a href="#">고분자공학과</a></li>
+      <li><a href="#">광학공학과</a></li>
+      <li><a href="#">건설정보과</a></li>
+      <li><a href="#">건축학과</a></li>
+      <li><a href="#">게임콘텐츠과</a></li>
+      <li><a href="#">공업화학과</a></li>
+      <li><a href="#">교양공학부</a></li>
+      <li><a href="#">교통공학과</a></li>
+      <li><a href="#">국방기술학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\금속공학과.jpg">금속공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\기계공학과.jpg">기계공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\나노공학과.jpg">나노공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\도시공학과.jpg">도시공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\로봇공학과.jpg">로봇공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\멀티미디어학과.jpg">멀티미디어학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\무인항공드론과.jpg">무인항공드론과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\물류시스템공학과.jpg">물류시스템공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\디지털컨텐츠학과.jpg">디지털콘텐츠학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\메카트로닉스공학과.jpg">메카트로닉스공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\모바일시스템공학과.jpg">모바일시스템공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\반도체과.jpg">반도체과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\사이버국방학과.jpg">사이버국방학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\산업공학과.png">산업공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\섬유공학과.png">섬유공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\세라믹공학과.png">세라믹공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\소프트웨어공학과.png">소프트웨어공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\산업설비자동화과.png">산업설비자동화과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\스마트정보과.png">스마트정보과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\시스템공학과.png">시스템공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\신소재응용과.png">신소재응용과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\에너지자원공학과.png">에너지자원공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\응용소프트웨어공학과.png">응용소프트웨어공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\시스템경영공학과.png">시스템경영공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\신재생에너지과.png">신재생에너지과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\안전공학과.png">안전공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\원자력공학과.PNG">원자력공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\인터넷정보학과.PNG">인터넷정보학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\전기공학과.PNG">전기공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\전기전자과.PNG">전기전자과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\자동차공학과.PNG">자동차공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\전자공학과.PNG">전자공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\정보통신공학과.PNG">정보통신공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\제지공학과.PNG">제지공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\철도교통과.PNG">철도교통과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\컴퓨터보안과.PNG">컴퓨터보안과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\컴퓨터공학과.PNG">컴퓨터공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\컴퓨터소프트웨어과.PNG">컴퓨터소프트웨어과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\컴퓨터시스템학과.PNG">컴퓨터시스템과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\항공보안과.PNG">항공보안과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\항공운항학과.PNG">항공운항학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\항해학과.PNG">항해학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\컴퓨터응용기계과.PNG">컴퓨터응용기계과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\토목공학과.PNG">토목공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\특수장비과.PNG">특수장비과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\항공우주공학과.PNG">항공우주공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\항공정비과.PNG">항공정비과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\해양시스템학과.PNG">해양시스템학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\화학공학과.PNG">화학공학과</a></li>
+      <li><a href="C:\Users\user\Desktop\창키\환경화학과.PNG">환경화학과</a></li>
+
+    </ul>
+  </nav>
+
+  <h2><a name="bookmarks"></a>학과 정보</h2>
+  <h3>헷갈리는 학과 설명</h3>
+  <li><a href="C:\Users\user\Desktop\창키\생명공학과 vs 생명과학과.PNG">생명공학과 vs 생명과학과</a></li>
+  <li><a href="C:\Users\user\Desktop\창키\전기공학과 vs 전자공학과.PNG">전기공학과 vs 전자공학과</a></li>
+  <li><a href="C:\Users\user\Desktop\창키\컴퓨터공학과 vs 컴퓨터과학과.PNG">컴퓨터공학과 vs 컴퓨터과학과</a></li>
+  <li><a href="C:\Users\user\Desktop\창키\화학과 vs 화학공학과.PNG">화학과 vs 화학공학과</a></li>
+
+  <h2><a name="bookmarkd"></a>학과 정보</h2>
+  <h3>유명대학교 사이트 바로가기</h3>
+  <li><a href="https://www.snu.ac.kr/">서울대학교</a></li>
+  <li><a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do">고려대학교</a></li>
+  <li><a href="https://www.yonsei.ac.kr/sc/index.jsp">연세대학교</a></li>
+  <li><a href="https://www.skku.edu/skku/index.do">성균관대학교</a></li>
+  <li><a href="https://www.hanyang.ac.kr/">한양대학교</a></li>
+  <li><a href="https://www.sogang.ac.kr/index.do">서강대학교</a></li>
+  <li><a href="https://www.cau.ac.kr/index.do">중앙대학교</a></li>
+  <li><a href="https://www.kaist.ac.kr/kr/">카이스트</a></li>
+  <li><a href="https://www.khu.ac.kr/kor/main/index.do">경희대학교</a></li>
+  <li><a href="https://www.postech.ac.kr/">포항공과대학교</a></li>
+  <li><a href="https://builder.hufs.ac.kr/">한국외국어대학교</a></li>
+  <li><a href="https://www.uos.ac.kr/main.do?epTicket=LOG">서울시립대학교</a></li>
+
+  
+
+
+  <h4>만든이 : 웹개발 컴싸 (30611 박승혁, 30504 김현민, 30604 김민준, 30802 곽지용)</h4>
+  <footer>
+    <p>&copy; 2023 공학 학과 모음집.</p>
+  </footer>
+
+</body>
+</html>
